@@ -5,6 +5,6 @@ baseurl: ""
 twitter_username: HansenSteve
 github_username:  stevehansen
 markdown: kramdown
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "CNAME"]
 timezone: Europe/Brussels
 highlighter: pygments
