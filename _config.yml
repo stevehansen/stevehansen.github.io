@@ -1,0 +1,10 @@
+url: http://xiu.shoeke.com
+title: 'Steve&#039;s Blog'
+description: My ideas about Vidyano, .NET, JavaScript, Japanese, ...
+baseurl: ""
+twitter_username: HansenSteve
+github_username:  stevehansen
+markdown: kramdown
+exclude: ["README.md", "LICENSE"]
+timezone: Europe/Brussels
+highlighter: pygments
