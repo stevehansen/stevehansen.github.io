@@ -4,7 +4,6 @@ author: Steve Hansen
 layout: post
 permalink: /2012/11/08/vs-extension-of-the-week-web-essentials-2012/
 tags:
-  - Extension
   - Extension of the Week
   - HTML
   - JavaScript

@@ -6,7 +6,6 @@ permalink: /2012/11/01/vs-extension-of-the-week-intellicommand/
 dsq_thread_id:
   - 2982209673
 tags:
-  - Extension
   - Extension of the Week
   - Visual Studio
 ---
