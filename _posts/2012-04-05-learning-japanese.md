@@ -8,7 +8,7 @@ tags:
   - Japanese
   - Vidyano
 ---
-Learning a new language requires lots of practice so it&#8217;s always useful to use it as a much as possible and in different circumstances. As a developer this means creating an application to keep track of stuff <img src="http://i2.wp.com/xiu.shoeke.com/wp-includes/images/smilies/icon_smile.gif?w=625" alt=":)" class="wp-smiley" data-recalc-dims="1" /> 
+Learning a new language requires lots of practice so it&#8217;s always useful to use it as a much as possible and in different circumstances. As a developer this means creating an application to keep track of stuff :smile: 
 
 Sharing this stuff can be challenging sometimes so that&#8217;s why I decided to use it as a website hosted on <a href="http://www.appharbor.com/" target="_blank">AppHarbor</a>, this service allows you to just push your code to <a href="http://bitbucket.org/" target="_blank">Bitbucket</a> and it will automatically pull your latest code, build it and deploy it to your site, it couldn&#8217;t be easier.
 

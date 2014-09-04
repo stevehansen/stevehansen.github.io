@@ -16,6 +16,6 @@ Our team is proud to announce the release of version 3.2
 *   Added support for developer Google Analytics statistics.
 *   Etc
 
-We have also converted the complete [Vidyano website][1] to run as a Vidyano application <img src="http://i2.wp.com/xiu.shoeke.com/wp-includes/images/smilies/icon_smile.gif?w=625" alt=":)" class="wp-smiley" data-recalc-dims="1" /> 
+We have also converted the complete [Vidyano website][1] to run as a Vidyano application :smile: 
 
  [1]: http://www.vidyano.com/ "Vidyano website"

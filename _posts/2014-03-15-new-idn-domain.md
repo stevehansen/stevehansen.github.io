@@ -10,7 +10,7 @@ tags:
   - IDN
   - Japanese
 ---
-Google has started offering the .みんな domain. The extension means &#8220;everyone&#8221; and so it can be used by everyone. <img src="http://i2.wp.com/xiu.shoeke.com/wp-includes/images/smilies/icon_smile.gif?w=625" alt=":)" class="wp-smiley" data-recalc-dims="1" /> 
+Google has started offering the .みんな domain. The extension means &#8220;everyone&#8221; and so it can be used by everyone. :smile: 
 
 <http://www.youtube.com/watch?v=5FmLnNDw23Y>
 

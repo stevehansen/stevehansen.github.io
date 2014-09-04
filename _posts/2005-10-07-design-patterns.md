@@ -9,7 +9,7 @@ tags:
 We have a new course at school this year, *Design Patterns &#038; Frameworks*  
 I&#8217;ve been coding OO code for about 2 years now and I&#8217;ve been using some patterns without knowing it.
 
-We had to buy the book [Head First Design Patterns][1], just finished the book yesterday <img src="http://xiu.shoeke.com/wp-includes/images/smilies/icon_neutral.gif?w=625" alt=":|" class="wp-smiley" data-recalc-dims="1" /> a 600+ pages book.
+We had to buy the book [Head First Design Patterns][1], just finished the book yesterday :expressionless: a 600+ pages book.
 
 I enjoyed reading the book from the moment I opened it, it&#8217;s such a easy way to learn about patterns. Examples, crossword puzzles,&#8230;
 

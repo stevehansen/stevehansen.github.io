@@ -8,7 +8,7 @@ tags:
 ---
 **UPDATE:** [Vidyano 2.0 released][1]
 
-The Vidyano Release Candidate is now available <img src="http://i2.wp.com/xiu.shoeke.com/wp-includes/images/smilies/icon_smile.gif?w=625" alt=":)" class="wp-smiley" data-recalc-dims="1" /> 
+The Vidyano Release Candidate is now available :smile: 
 
 Together with a new website we offer complete support now for any application build with Vidyano, think of it as a Go Live license.
 

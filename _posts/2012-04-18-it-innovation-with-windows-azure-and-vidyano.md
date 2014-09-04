@@ -8,7 +8,7 @@ tags:
   - Vidyano
   - Windows Azure
 ---
-We are having a seminar here in Belgium next month (Thu, 3rd May 2012) together with Microsoft showing how you can use Vidyano with Windows Azure and show all the benefits of both <img src="http://i2.wp.com/xiu.shoeke.com/wp-includes/images/smilies/icon_smile.gif?w=625" alt=":)" class="wp-smiley" data-recalc-dims="1" /> 
+We are having a seminar here in Belgium next month (Thu, 3rd May 2012) together with Microsoft showing how you can use Vidyano with Windows Azure and show all the benefits of both :smile: 
 
 Register [here][1]
 

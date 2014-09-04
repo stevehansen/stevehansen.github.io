@@ -6,7 +6,7 @@ permalink: /2012/10/23/vidyano-4-released/
 tags:
   - Vidyano
 ---
-We have pushed the latest Vidyano version on the [Visual Studio Gallery][1]. We&#8217;ve added so many features that I better just link to our [Features][2] page <img src="http://i2.wp.com/xiu.shoeke.com/wp-includes/images/smilies/icon_smile.gif?w=625" alt=":)" class="wp-smiley" data-recalc-dims="1" /> 
+We have pushed the latest Vidyano version on the [Visual Studio Gallery][1]. We&#8217;ve added so many features that I better just link to our [Features][2] page :smile: 
 
 But one of them is the new service side JavaScript support: <http://www.vidyano.com/#!/Documentation/javascript>  
 Which allows you to write Custom Actions, Business Rules and Persistent Object Actions code in JavaScript that still runs on the service side. This will allow you to change even business logic while the application is deployed, giving access to the .NET framework, with debugging support in Visual Studio.

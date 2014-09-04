@@ -6,7 +6,7 @@ permalink: /2006/11/30/model-view-presenter-sample/
 tags:
   - Design Patterns
 ---
-Here is a small part of my Demo that I&#8217;m creating. It is actually a second Presenter with Model and View that are used when you want to import something (the demo will follow so don&#8217;t worry <img src="http://i2.wp.com/xiu.shoeke.com/wp-includes/images/smilies/icon_smile.gif?w=625" alt=":)" class="wp-smiley" data-recalc-dims="1" /> ).It gives a good view of how I&#8217;m implementing the MVP pattern.
+Here is a small part of my Demo that I&#8217;m creating. It is actually a second Presenter with Model and View that are used when you want to import something (the demo will follow so don&#8217;t worry :smile: ).It gives a good view of how I&#8217;m implementing the MVP pattern.
 
 <p style="text-align: center">
   <img alt="Import MVP Class Diagram" title="Import MVP Class Diagram" src="http://xiu.shoeke.com/images/ImportClassDiagram.png?w=625" data-recalc-dims="1" />
