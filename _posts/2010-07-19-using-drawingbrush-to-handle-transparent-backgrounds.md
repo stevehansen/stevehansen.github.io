@@ -5,8 +5,6 @@ layout: post
 permalink: /2010/07/19/using-drawingbrush-to-handle-transparent-backgrounds/
 dsq_thread_id:
   - 2982209807
-categories:
-  - Uncategorized
 tags:
   - WPF
 ---
@@ -34,49 +32,4 @@ With images it is sometimes difficult to see the difference between a white and 
 
 Which will give the following effect if used as the background property.
 
-<img class="alignnone size-full wp-image-129" title="TransparentBackground" src="http://i1.wp.com/hansen.azurewebsites.net/wp-content/uploads/2010/07/TransparentBackground.png?resize=143%2C134" alt="" data-recalc-dims="1" />
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-email">
-          <a rel="nofollow" class="share-email sd-button" href="http://xiu.shoeke.com/2010/07/19/using-drawingbrush-to-handle-transparent-backgrounds/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-twitter">
-          <div class="twitter_button">
-          </div>
-        </li>
-        
-        <li class="share-google-plus-1">
-          <div class="googleplus1_button">
-            <div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://xiu.shoeke.com/2010/07/19/using-drawingbrush-to-handle-transparent-backgrounds/">
-            </div>
-          </div>
-        </li>
-        
-        <li class="share-facebook">
-          <div class="like_button">
-          </div>
-        </li>
-        
-        <li class="share-linkedin">
-          <div class="linkedin_button">
-          </div>
-        </li>
-        
-        <li class="share-reddit">
-          <div class="reddit_button">
-          </div>
-        </li>
-        
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
+<img class="alignnone size-full wp-image-129" title="TransparentBackground" src="http://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/TransparentBackground.png?resize=143%2C134" alt="" data-recalc-dims="1" />

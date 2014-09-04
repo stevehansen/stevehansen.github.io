@@ -3,8 +3,6 @@ title: Distributing code with NuGet packages
 author: Steve Hansen
 layout: post
 permalink: /2012/10/26/distributing-code-with-nuget-packages/
-categories:
-  - Uncategorized
 tags:
   - NuGet
   - Vidyano
@@ -22,48 +20,3 @@ The first released NuGet extension is for adding basic Reflection support to Jav
 The source code is also available on Bitbucket so you can play around with it and make your own code packages.
 
 <https://bitbucket.org/Hansen/vidyano.reflection>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-email">
-          <a rel="nofollow" class="share-email sd-button" href="http://xiu.shoeke.com/2012/10/26/distributing-code-with-nuget-packages/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-twitter">
-          <div class="twitter_button">
-          </div>
-        </li>
-        
-        <li class="share-google-plus-1">
-          <div class="googleplus1_button">
-            <div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://xiu.shoeke.com/2012/10/26/distributing-code-with-nuget-packages/">
-            </div>
-          </div>
-        </li>
-        
-        <li class="share-facebook">
-          <div class="like_button">
-          </div>
-        </li>
-        
-        <li class="share-linkedin">
-          <div class="linkedin_button">
-          </div>
-        </li>
-        
-        <li class="share-reddit">
-          <div class="reddit_button">
-          </div>
-        </li>
-        
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>

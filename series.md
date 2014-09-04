@@ -3,6 +3,7 @@ title: Series
 author: Steve Hansen
 layout: page
 permalink: /series/
+nav: true
 ---
 **Watching**
 
@@ -18,7 +19,7 @@ permalink: /series/
 * How I Met Your Mother (<a href="http://www.imdb.com/title/tt0460649/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>)
 * The Legend of Korra
 * Lost Girl
-* Marvel&#8217;s Agents of S.H.I.E.L.D. (<a href="http://www.imdb.com/title/tt2364582/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
+* Marvel's Agents of S.H.I.E.L.D. (<a href="http://www.imdb.com/title/tt2364582/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
 * Psych (<a href="http://www.imdb.com/title/tt0491738/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>)
 * Sherlock
 * Suits

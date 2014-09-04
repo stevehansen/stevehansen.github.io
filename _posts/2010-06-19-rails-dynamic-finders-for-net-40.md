@@ -3,8 +3,6 @@ title: Rails dynamic finders for .NET 4.0
 author: Steve Hansen
 layout: post
 permalink: /2010/06/19/rails-dynamic-finders-for-net-40/
-categories:
-  - Uncategorized
 ---
 Ruby on Rails allows you to use &#8216;dynamic&#8217; finders to query the database. This is actually a feature from ActiveRecord to dynamicly use methods which will represent where clauses on the database.
 
@@ -86,49 +84,5 @@ And the only difference with the DynamicEnumerable class is that the expression 
 
 Full source at [pastebin][1].
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-email">
-          <a rel="nofollow" class="share-email sd-button" href="http://xiu.shoeke.com/2010/06/19/rails-dynamic-finders-for-net-40/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-twitter">
-          <div class="twitter_button">
-          </div>
-        </li>
-        
-        <li class="share-google-plus-1">
-          <div class="googleplus1_button">
-            <div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://xiu.shoeke.com/2010/06/19/rails-dynamic-finders-for-net-40/">
-            </div>
-          </div>
-        </li>
-        
-        <li class="share-facebook">
-          <div class="like_button">
-          </div>
-        </li>
-        
-        <li class="share-linkedin">
-          <div class="linkedin_button">
-          </div>
-        </li>
-        
-        <li class="share-reddit">
-          <div class="reddit_button">
-          </div>
-        </li>
-        
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
 
  [1]: http://pastebin.com/m6FmvUGj "http://pastebin.com/m6FmvUGj"

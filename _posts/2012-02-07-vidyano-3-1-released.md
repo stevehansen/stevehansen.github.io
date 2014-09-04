@@ -3,8 +3,6 @@ title: Vidyano 3.1 released
 author: Steve Hansen
 layout: post
 permalink: /2012/02/07/vidyano-3-1-released/
-categories:
-  - Uncategorized
 ---
 Our team has been hard at work to release version 3.1
 
@@ -20,48 +18,3 @@ Our team has been hard at work to release version 3.1
 *   Etc
 
 <a title="Vidyano 3" href="http://visualstudiogallery.msdn.microsoft.com/93793ad7-6fa2-4a90-992e-cb703f72b644" target="_blank">More information</a>
-
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-email">
-          <a rel="nofollow" class="share-email sd-button" href="http://xiu.shoeke.com/2012/02/07/vidyano-3-1-released/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-        </li>
-        <li class="share-twitter">
-          <div class="twitter_button">
-          </div>
-        </li>
-        
-        <li class="share-google-plus-1">
-          <div class="googleplus1_button">
-            <div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://xiu.shoeke.com/2012/02/07/vidyano-3-1-released/">
-            </div>
-          </div>
-        </li>
-        
-        <li class="share-facebook">
-          <div class="like_button">
-          </div>
-        </li>
-        
-        <li class="share-linkedin">
-          <div class="linkedin_button">
-          </div>
-        </li>
-        
-        <li class="share-reddit">
-          <div class="reddit_button">
-          </div>
-        </li>
-        
-        <li class="share-end">
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
