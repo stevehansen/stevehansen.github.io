@@ -1,6 +1,6 @@
 url: http://xiu.shoeke.com
 author: Steve Hansen
-title: "Steve&#039;s Blog"
+title: "Steve's Blog"
 description: My ideas about Vidyano, .NET, JavaScript, Japanese, ...
 avatar: https://avatars2.githubusercontent.com/u/2143488?v=2&s=40
 baseurl: ""
@@ -12,7 +12,7 @@ footer-links:
   email: 
   facebook: xiutette
   github: stevehansen
-  rss: feed.xml
+  rss: /feed/
   twitter: HansenSteve
   stackoverflow: users/295296/xiu
 disqus: xiu
