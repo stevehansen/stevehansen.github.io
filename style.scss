@@ -260,9 +260,13 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
+  .read-more, .edit {
     text-transform: uppercase;
     font-size: 15px;
+  }
+  
+  .edit {
+	float: right;	
   }
 }
 
