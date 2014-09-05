@@ -3,8 +3,6 @@ title: 'New IDN domain: スティーブ.みんな'
 author: Steve Hansen
 layout: post
 permalink: /2014/03/15/new-idn-domain/
-categories:
-  - Uncategorized
 tags:
   - Google
   - IDN
