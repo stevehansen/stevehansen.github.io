@@ -9,3 +9,4 @@ nav: true
 * <a href="https://bitvoucher.co/affl/18RCYDmso5rUzpK6verZ51HuGCGxCFEvbd/" target="_blank">Mega Voucher</a>: Buy Mega vouchers with Bitcoins
 * <a href="http://hidemyass.com/vpn/r1346/" target="_blank">Hide My Ass VPN</a>: Worldwide VPN
 * <a href="https://unlocator.com/account/aff/go/jvxpuulvPQFJBpYNCvJE" target="_blank">Unlocator</a>: Remove website blocks
+* <a href="https://litebit.eu/registration/nl/32748M8myk/" target="_blank">LiteBit.eu</a>: Buy and sell digital currencies (Bitcoin BTC, Dogecoin DOGE, ...)
