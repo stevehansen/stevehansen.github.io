@@ -8,6 +8,12 @@ comments: true
 ---
 **Watching**
 
+* Attack on Titan
 * Fairy Tail
 * Naruto Shippuuden
 * One Piece
+
+**Finished**
+
+* Chobits
+* Elfen Lied
