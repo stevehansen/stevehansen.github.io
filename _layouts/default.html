@@ -1,39 +1,37 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
-    <meta name="author" content="{{ site.author }}" />
-    <meta name="description" content="{{ site.description }}">
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-{% if site.footer-links.rss %}    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}{{ site.footer-links.rss }}" />
-{% endif %}    <script src="{{ site.baseurl }}/platform.js"></script>
-    <script src="{{ site.baseurl }}/time-elements.js"></script>
-  </head>
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"></a>
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-          <nav>{% for page in site.pages %}{% if page.nav %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}{% endfor %}</nav>
-        </header>
-      </div>
+<head>
+ <meta charset="utf-8" />
+ <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+ <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+ <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
+ <meta name="author" content="{{ site.author }}" />
+ <meta name="description" content="{{ site.description }}">
+ <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+ <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" />
+{% if site.footer-links.rss %} <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}{{ site.footer-links.rss }}" />
+{% endif %} <script src="{{ site.baseurl }}/platform.js"></script>
+ <script src="{{ site.baseurl }}/time-elements.js"></script>
+</head>
+<body>
+ <div class="wrapper-masthead">
+  <div class="container">
+   <header class="masthead clearfix">
+    <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"></a>
+    <div class="site-info">
+     <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+     <p class="site-description">{{ site.description }}</p>
     </div>
-    <div id="main" role="main" class="container">{{ content }}</div>
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">{% include svg-icons.html %}</footer>
-      </div>
-    </div>
-    {% include analytics.html %}
-  </body>
+    <nav>{% for page in site.pages %}{% if page.nav %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}{% endfor %}</nav>
+   </header>
+  </div>
+ </div>
+ <div id="main" role="main" class="container">{{ content }}</div>
+  <div class="wrapper-footer">
+   <div class="container">
+    <footer class="footer">{% include svg-icons.html %}</footer>
+   </div>
+  </div>
+{% include analytics.html %}
+</body>
 </html>
