@@ -1,0 +1,45 @@
+[
+ {
+  "name": "Attack on Titan",
+  "romaji": "Shingeki no Kyojin",
+  "japanese": "進撃の巨人",
+  "aid": 9541,
+  "image": "133345.jpg",
+ },
+ {
+  "name": "Chobits",
+  "japanese": "ちょびっツ",
+  "aid": 12,
+  "image": "83669.jpg",
+  "finished": true,
+ },
+ {
+  "name": "Elfen Lied",
+  "japanese": "エルフェンリート",
+  "aid": 1544,
+  "image": "157430.jpg",
+  "finished": true,
+ },
+ {
+  "name": "Fairy Tail",
+  "aid": 6662,
+  "image": "54924.jpg",
+ },
+ {
+  "name": "Naruto",
+  "aid": 239,
+  "image": "11891.jpg",
+  "finished": true,
+ },
+ {
+  "name": "Naruto Shippuuden",
+  "japanese": "NARUTO 疾風伝",
+  "aid": 4880,
+  "image": "8611.jpg",
+ },
+ {
+  "name": "One Piece",
+  "aid": 69,
+  "image": "145627.jpg",
+ },
+]
