@@ -25,6 +25,7 @@ comments: true
 * Suits (<a href="http://www.imdb.com/title/tt1632701/" target="_blank">IMDb</a>)
 * The Walking Dead (<a href="http://www.imdb.com/title/tt1520211/" target="_blank">IMDb</a>)
 * White Collar (<a href="http://www.imdb.com/title/tt1358522/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=gIFySyLynAk" target="_blank">Trailer</a>)
+* Z Nation (<a href="http://www.imdb.com/title/tt3843168/" target="_blank">IMDb</a>)
 * Zero Hour (<a href="http://www.imdb.com/title/tt2215797/" target="_blank">IMDb</a>)
 
 **Finished**
