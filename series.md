@@ -16,6 +16,7 @@ comments: true
 * Elementary (<a href="http://www.imdb.com/title/tt2191671/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
 * Game of Thrones (<a href="http://www.imdb.com/title/tt0944947/" target="_blank">IMDb</a>)
 * Helix (<a href="http://www.imdb.com/title/tt2758950/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=NiOXG8dVib4" target="_blank">Trailer</a>)
+* Hemlock Grove ([IMDb](http://www.imdb.com/title/tt2309295/))
 * Intruders (<a href="http://www.imdb.com/title/tt3552166/" target="_blank">IMDb</a>)
 * The Legend of Korra (<a href="http://www.imdb.com/title/tt1695360/" target="_blank">IMDb</a>)
 * Lost Girl (<a href="http://www.imdb.com/title/tt1429449/" target="_blank">IMDb</a>)
