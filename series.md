@@ -21,6 +21,7 @@ comments: true
 * The Legend of Korra (<a href="http://www.imdb.com/title/tt1695360/" target="_blank">IMDb</a>)
 * Lost Girl (<a href="http://www.imdb.com/title/tt1429449/" target="_blank">IMDb</a>)
 * Marvel's Agents of S.H.I.E.L.D. (<a href="http://www.imdb.com/title/tt2364582/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
+* Mr Pickles ([IMDb](http://www.imdb.com/title/tt2950342/))
 * Ray Donovan (<a href="http://www.imdb.com/title/tt2249007/" target="_blank">IMDb</a>)
 * Sherlock (<a href="http://www.imdb.com/title/tt1475582/" target="_blank">IMDb</a>)
 * Suits (<a href="http://www.imdb.com/title/tt1632701/" target="_blank">IMDb</a>)
