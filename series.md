@@ -8,35 +8,36 @@ comments: true
 ---
 **Watching**
 
-* Arrow (2012) (<a href="http://www.imdb.com/title/tt2193021/" target="_blank">IMDb</a>)
-* Bitten (<a href="http://www.imdb.com/title/tt2365946/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=tUQ_ZXjzkiQ" target="_blank">Trailer</a>)
-* Continuum (<a href="http://www.imdb.com/title/tt1954347/" target="_blank">IMDb</a>)
-* Doctor Who (2005) (<a href="http://www.imdb.com/title/tt0436992/" target="_blank">IMDb</a>)
-* Dominion (<a href="http://www.imdb.com/title/tt3079768/" target="_blank">IMDb</a>)
-* Elementary (<a href="http://www.imdb.com/title/tt2191671/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
-* Game of Thrones (<a href="http://www.imdb.com/title/tt0944947/" target="_blank">IMDb</a>)
-* Helix (<a href="http://www.imdb.com/title/tt2758950/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=NiOXG8dVib4" target="_blank">Trailer</a>)
+* Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
+* Bitten ([IMDb](http://www.imdb.com/title/tt2365946/) - <a href="http://www.youtube.com/watch?v=tUQ_ZXjzkiQ" target="_blank">Trailer</a>)
+* Continuum ([IMDb](http://www.imdb.com/title/tt1954347/))
+* Doctor Who (2005) ([IMDb](http://www.imdb.com/title/tt0436992/))
+* Dominion ([IMDb](http://www.imdb.com/title/tt3079768/))
+* Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
+* Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
+* Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
+* Helix ([IMDb](http://www.imdb.com/title/tt2758950/) - <a href="http://www.youtube.com/watch?v=NiOXG8dVib4" target="_blank">Trailer</a>)
 * Hemlock Grove ([IMDb](http://www.imdb.com/title/tt2309295/))
-* Intruders (<a href="http://www.imdb.com/title/tt3552166/" target="_blank">IMDb</a>)
-* The Legend of Korra (<a href="http://www.imdb.com/title/tt1695360/" target="_blank">IMDb</a>)
-* Lost Girl (<a href="http://www.imdb.com/title/tt1429449/" target="_blank">IMDb</a>)
-* Marvel's Agents of S.H.I.E.L.D. (<a href="http://www.imdb.com/title/tt2364582/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
+* Intruders ([IMDb](http://www.imdb.com/title/tt3552166/))
+* The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/))
+* Lost Girl ([IMDb](http://www.imdb.com/title/tt1429449/))
+* Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
 * Mr Pickles ([IMDb](http://www.imdb.com/title/tt2950342/))
-* Ray Donovan (<a href="http://www.imdb.com/title/tt2249007/" target="_blank">IMDb</a>)
-* Sherlock (<a href="http://www.imdb.com/title/tt1475582/" target="_blank">IMDb</a>)
-* Suits (<a href="http://www.imdb.com/title/tt1632701/" target="_blank">IMDb</a>)
-* The Walking Dead (<a href="http://www.imdb.com/title/tt1520211/" target="_blank">IMDb</a>)
-* White Collar (<a href="http://www.imdb.com/title/tt1358522/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=gIFySyLynAk" target="_blank">Trailer</a>)
-* Z Nation (<a href="http://www.imdb.com/title/tt3843168/" target="_blank">IMDb</a>)
-* Zero Hour (<a href="http://www.imdb.com/title/tt2215797/" target="_blank">IMDb</a>)
+* Ray Donovan ([IMDb](http://www.imdb.com/title/tt2249007/))
+* Sherlock ([IMDb](http://www.imdb.com/title/tt1475582/))
+* Suits ([IMDb](http://www.imdb.com/title/tt1632701/))
+* The Walking Dead ([IMDb](http://www.imdb.com/title/tt1520211/))
+* White Collar ([IMDb](http://www.imdb.com/title/tt1358522/) - <a href="http://www.youtube.com/watch?v=gIFySyLynAk" target="_blank">Trailer</a>)
+* Z Nation ([IMDb](http://www.imdb.com/title/tt3843168/))
+* Zero Hour ([IMDb](http://www.imdb.com/title/tt2215797/))
 
 **Finished**
 
-* Almost Human (<a href="http://www.imdb.com/title/tt2654580/" target="_blank">IMDb</a>)
-* Being Human (US) (<a href="http://www.imdb.com/title/tt1595680/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=aayb93qfXWQ" target="_blank">Trailer</a>)
-* Breaking Bad (<a href="http://www.imdb.com/title/tt0903747/" target="_blank">IMDb</a>)
-* Dracula (<a href="http://www.imdb.com/title/tt2296682/" target="_blank">IMDb</a>)
-* Firefly (<a href="http://www.imdb.com/title/tt0303461/" target="_blank">IMDb</a>)
-* How I Met Your Mother (<a href="http://www.imdb.com/title/tt0460649/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>)
-* Psych (<a href="http://www.imdb.com/title/tt0491738/" target="_blank">IMDb</a> - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>)
-* Warehouse 13 (<a href="http://www.imdb.com/title/tt1132290/" target="_blank">IMDb</a>)
+* Almost Human ([IMDb](http://www.imdb.com/title/tt2654580/)) 8/10
+* Being Human (US) ([IMDb](http://www.imdb.com/title/tt1595680/) - <a href="http://www.youtube.com/watch?v=aayb93qfXWQ" target="_blank">Trailer</a>) 9/10
+* Breaking Bad ([IMDb](http://www.imdb.com/title/tt0903747/)) 10/10
+* Dracula ([IMDb](http://www.imdb.com/title/tt2296682/)) 8.5/10
+* Firefly ([IMDb](http://www.imdb.com/title/tt0303461/)) 10/10
+* How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
+* Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
+* Warehouse 13 ([IMDb](http://www.imdb.com/title/tt1132290/")) 9/10
