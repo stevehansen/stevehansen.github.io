@@ -10,7 +10,7 @@ tags:
 ---
 With images it is sometimes difficult to see the difference between a white and transparent background. Using a DrawingBush in Tile mode can create the known checker background used in applications as Photoshop.
 
-``` xml
+```
 <DrawingBrush>
     <DrawingBrush.Drawing>
         <DrawingGroup>
