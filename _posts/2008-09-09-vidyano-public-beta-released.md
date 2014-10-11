@@ -10,31 +10,16 @@ We released the latest version of Vidyano last night.
 
 A lot of new features have been added to this release, here are just a couple:
 
-*   <div>
-      Visual Studio 2008 <strong>SP1 RTM Support</strong>
-    </div>
-
-*   <div>
-      Support for the <strong>Entity Framework</strong>
-    </div>
-
-*   <div>
-      The <strong>default skin</strong> has been improved greatly (thanks Stardust !)
-    </div>
-
-*   <div>
-      <strong>Visual Studio designers</strong> have been reviewed to better blend into the environment
-    </div>
-
-*   <div>
-      Better <strong>exception handling</strong> throughout the entire development/runtime cycle
-    </div>
-
-*   Greatly improved **stability**
-*   The **ModuleQuery** has been redesigned
-*   Runtime optimized for **performance**
-*   **Standard user** support for **Vista**
-*   Support for **VB.NET**
+* Visual Studio 2008 **SP1 RTM Support**
+* Support for the **Entity Framework**
+* The **default skin** has been improved greatly (thanks Stardust !)
+* **Visual Studio designers** have been reviewed to better blend into the environment
+* Better **exception handling** throughout the entire development/runtime cycle
+* Greatly improved **stability**
+* The **ModuleQuery** has been redesigned
+* Runtime optimized for **performance**
+* **Standard user** support for **Vista**
+* Support for **VB.NET**
 
 We greatly encourage you to play around with this new build and are looking forward to your feedback!
 
