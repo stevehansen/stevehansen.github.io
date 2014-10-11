@@ -10,8 +10,7 @@ tags:
 ---
 With images it is sometimes difficult to see the difference between a white and transparent background. Using a DrawingBush in Tile mode can create the known checker background used in applications as Photoshop.
 
-```
-<DrawingBrush>
+{% highlight xml %}<DrawingBrush>
     <DrawingBrush.Drawing>
         <DrawingGroup>
             <GeometryDrawing Brush="White">
@@ -29,7 +28,6 @@ With images it is sometimes difficult to see the difference between a white and 
             </GeometryDrawing>
         </DrawingGroup>
     </DrawingBrush.Drawing>
-</DrawingBrush>
-```
+</DrawingBrush>{% endhighlight %}
 
 <img class="alignnone size-full wp-image-129" title="TransparentBackground" src="http://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/TransparentBackground.png?resize=143%2C134" alt="" data-recalc-dims="1" />
