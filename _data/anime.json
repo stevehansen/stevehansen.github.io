@@ -5,6 +5,7 @@
   "japanese": "進撃の巨人",
   "aid": 9541,
   "image": "133345.jpg",
+  "finished": true,
  },
  {
   "name": "Chobits",
@@ -47,5 +48,13 @@
   "japanese": "ソードアート・オンライン",
   "aid": 8692,
   "image": "sword-art-online.jpg",
+  "finished": true,
  },
+ {
+  "name": "The Devil Is a Part-Timer!",
+  "japanese": "はたらく魔王さま!",
+  "aid": 9466,
+  "image": "9466.jpg",
+  "finished": true,
+ }
 ]
