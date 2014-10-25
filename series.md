@@ -10,6 +10,7 @@ comments: true
 
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Bitten ([IMDb](http://www.imdb.com/title/tt2365946/) - <a href="http://www.youtube.com/watch?v=tUQ_ZXjzkiQ" target="_blank">Trailer</a>)
+* Constantine ([IMDb](http://www.imdb.com/title/tt3489184/))
 * Continuum ([IMDb](http://www.imdb.com/title/tt1954347/))
 * Doctor Who (2005) ([IMDb](http://www.imdb.com/title/tt0436992/))
 * Dominion ([IMDb](http://www.imdb.com/title/tt3079768/))

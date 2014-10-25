@@ -44,6 +44,12 @@
   "image": "145627.jpg",
  },
  {
+  "name": "Psycho-Pass",
+  "japanese": "サイコパス",
+  "aid": 9127,
+  "image": "psycho-pass.jpg",
+ },
+ {
   "name": "Sword Art Online",
   "japanese": "ソードアート・オンライン",
   "aid": 8692,
