@@ -25,7 +25,6 @@ comments: true
 * Penny Dreadful ([IMDb](http://www.imdb.com/title/tt2628232/))
 * Mr Pickles ([IMDb](http://www.imdb.com/title/tt2950342/))
 * Rick and Morty ([IMDb](http://www.imdb.com/title/tt2861424/))
-* The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/))
 * The Walking Dead ([IMDb](http://www.imdb.com/title/tt1520211/))
 
 **On hold**
@@ -49,5 +48,6 @@ comments: true
 * How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
 * The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/))
 * Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
+* The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/))
 * Warehouse 13 ([IMDb](http://www.imdb.com/title/tt1132290/")) 9/10
 * White Collar ([IMDb](http://www.imdb.com/title/tt1358522/) - <a href="http://www.youtube.com/watch?v=gIFySyLynAk" target="_blank">Trailer</a>)
