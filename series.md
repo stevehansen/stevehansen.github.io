@@ -17,6 +17,7 @@ comments: true
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
 * Helix ([IMDb](http://www.imdb.com/title/tt2758950/) - <a href="http://www.youtube.com/watch?v=NiOXG8dVib4" target="_blank">Trailer</a>)
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
+* iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
 * Lost Girl ([IMDb](http://www.imdb.com/title/tt1429449/))
 * Marvel's Agent Carter ([IMDb](http://www.imdb.com/title/tt3475734/))
 * Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
