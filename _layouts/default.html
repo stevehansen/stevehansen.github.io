@@ -12,6 +12,7 @@
 {% if site.footer-links.rss %} <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}{{ site.footer-links.rss }}" />
 {% endif %} <script src="{{ site.baseurl }}/webcomponents.min.js"></script>
  <script src="{{ site.baseurl }}/time-elements.min.js"></script>
+{% include analytics.html %}
 </head>
 <body>
  <div class="wrapper-masthead">
@@ -32,6 +33,5 @@
     <footer class="footer">{% include svg-icons.html %}</footer>
    </div>
   </div>
-{% include analytics.html %}
 </body>
 </html>
