@@ -13,7 +13,7 @@ The great thing about this program is that it uses an online dictionary (based o
 It can set the MP3 tags but it can also rename/move the files.
 
 Together with Album Art Fixer this can really clean up your music collection. ([Art Fixer Website][2])  
-<img src="http://i1.wp.com/www.avsoft.nl/artfixer/Startup.JPG?w=625" alt="Album Art Fixer" data-recalc-dims="1" />
+<img src="https://i1.wp.com/www.avsoft.nl/artfixer/Startup.JPG?w=625" alt="Album Art Fixer" data-recalc-dims="1" />
 
  [1]: http://musicbrainz.org/
  [2]: http://www.avsoft.nl/artfixer/default.htm

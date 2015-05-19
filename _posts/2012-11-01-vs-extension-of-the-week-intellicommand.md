@@ -15,9 +15,9 @@ That&#8217;s what IntelliCommand does, whenever you press the Ctrl, Shift, Alt c
 
 Some screenshots:
 
-[<img class="alignnone size-full wp-image-841" title="IntelliCommand1" src="http://xiu.shoeke.com/wp-content/uploads/2012/11/IntelliCommand1.png?fit=625%2C388" alt="" data-recalc-dims="1" />][1]
+[<img class="alignnone size-full wp-image-841" title="IntelliCommand1" src="https://i0.wp.com/xiu.shoeke.com/wp-content/uploads/2012/11/IntelliCommand1.png?fit=625%2C388" alt="" data-recalc-dims="1" />][1]
 
-[<img class="alignnone size-full wp-image-851" title="IntelliCommand2" src="http://xiu.shoeke.com/wp-content/uploads/2012/11/IntelliCommand2.png?fit=625%2C388" alt="" data-recalc-dims="1" />][2]
+[<img class="alignnone size-full wp-image-851" title="IntelliCommand2" src="https://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2012/11/IntelliCommand2.png?fit=625%2C388" alt="" data-recalc-dims="1" />][2]
 
 Get it from the [Visual Studio Gallery][3] or just download inside Visual Studio in the Tools and Extensions Manager.
 

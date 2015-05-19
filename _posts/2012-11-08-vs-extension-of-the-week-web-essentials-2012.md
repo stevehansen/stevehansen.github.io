@@ -15,11 +15,11 @@ Once you have the extension installed it will add native support for LESS, TypeS
 
 **TypeScript**
 
-[<img class="alignnone size-full wp-image-901" title="typescript" src="http://xiu.shoeke.com/wp-content/uploads/2012/11/typescript.png?fit=600%2C405" alt="" data-recalc-dims="1" />][1]
+[<img class="alignnone size-full wp-image-901" title="typescript" src="https://i0.wp.com/xiu.shoeke.com/wp-content/uploads/2012/11/typescript.png?fit=600%2C405" alt="" data-recalc-dims="1" />][1]
 
 **LESS**
 
-[<img class="alignnone size-full wp-image-911" title="Less preview" src="http://xiu.shoeke.com/wp-content/uploads/2012/11/Less-preview.png?fit=454%2C255" alt="" data-recalc-dims="1" />][2]
+[<img class="alignnone size-full wp-image-911" title="Less preview" src="https://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2012/11/Less-preview.png?fit=454%2C255" alt="" data-recalc-dims="1" />][2]
 
 [Web Essentials 2012][3]
 

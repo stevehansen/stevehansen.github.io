@@ -30,4 +30,4 @@ With images it is sometimes difficult to see the difference between a white and 
     </DrawingBrush.Drawing>
 </DrawingBrush>{% endhighlight %}
 
-<img class="alignnone size-full wp-image-129" title="TransparentBackground" src="http://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/TransparentBackground.png?resize=143%2C134" alt="" data-recalc-dims="1" />
+<img class="alignnone size-full wp-image-129" title="TransparentBackground" src="https://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/TransparentBackground.png?resize=143%2C134" alt="" data-recalc-dims="1" />

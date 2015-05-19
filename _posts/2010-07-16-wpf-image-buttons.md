@@ -9,13 +9,13 @@ tags:
 ---
 For my [Resizer][1] application I wanted a toolbar with image buttons, everything was perfect until I tried to disable the buttons. The first idea was to add a greyscale effect to the button if it was disabled. For a complete black/white icon this didn&#8217;t help either but changing the opacity does.
 
-<img class="alignnone size-full wp-image-124" title="Toolbar-WithDisabled" src="http://i0.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/Toolbar-WithDisabled.png?resize=106%2C35" alt="" data-recalc-dims="1" />  
+<img class="alignnone size-full wp-image-124" title="Toolbar-WithDisabled" src="https://i0.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/Toolbar-WithDisabled.png?resize=106%2C35" alt="" data-recalc-dims="1" />  
 *Save/Clear disabled because there are no images *
 
-<img class="alignnone size-full wp-image-122" title="Toolbar-AllEnabled" src="http://i2.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/Toolbar-AllEnabled.png?resize=102%2C36" alt="" data-recalc-dims="1" />  
+<img class="alignnone size-full wp-image-122" title="Toolbar-AllEnabled" src="https://i2.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/Toolbar-AllEnabled.png?resize=102%2C36" alt="" data-recalc-dims="1" />  
 *All buttons enabled*
 
-<img class="alignnone size-full wp-image-123" title="Toolbar-MouseOver" src="http://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/Toolbar-MouseOver.png?resize=103%2C33" alt="" data-recalc-dims="1" />  
+<img class="alignnone size-full wp-image-123" title="Toolbar-MouseOver" src="https://i1.wp.com/xiu.shoeke.com/wp-content/uploads/2010/07/Toolbar-MouseOver.png?resize=103%2C33" alt="" data-recalc-dims="1" />  
 *MouseOver Save button*
 
 <pre class="brush: xml">&lt;Style TargetType="Button"&gt;
