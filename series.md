@@ -8,6 +8,7 @@ comments: true
 ---
 **Watching**
 
+* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * Between ([IMDb](http://www.imdb.com/title/tt4132692))
 * Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
 * Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
@@ -16,6 +17,7 @@ comments: true
 
 
 **On hold**
+
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Better Call Saul ([IMDb](http://www.imdb.com/title/tt3032476))
