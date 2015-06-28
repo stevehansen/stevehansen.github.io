@@ -8,16 +8,16 @@ comments: true
 ---
 **Watching**
 
-* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * Between ([IMDb](http://www.imdb.com/title/tt4132692))
 * Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
 * Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
-* Leverage ([IMDb](http://www.imdb.com/title/tt1103987))
+* Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
 * Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
 
 
 **On hold**
 
+* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Better Call Saul ([IMDb](http://www.imdb.com/title/tt3032476))
@@ -58,6 +58,7 @@ comments: true
 * Hemlock Grove ([IMDb](http://www.imdb.com/title/tt2309295/))
 * How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
 * The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/)) 9/10
+* Leverage ([IMDb](http://www.imdb.com/title/tt1103987)) 8.5/10
 * Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
 * The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/)) 8/10
 * The Walking Dead ([IMDb](http://www.imdb.com/title/tt1520211/)) 8/10
