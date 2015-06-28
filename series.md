@@ -10,7 +10,6 @@ comments: true
 
 * Between ([IMDb](http://www.imdb.com/title/tt4132692))
 * Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
-* Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
 * Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
 
@@ -27,6 +26,7 @@ comments: true
 * Doctor Who (2005) ([IMDb](http://www.imdb.com/title/tt0436992/))
 * Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
 * The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
+* Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
@@ -58,7 +58,7 @@ comments: true
 * Hemlock Grove ([IMDb](http://www.imdb.com/title/tt2309295/))
 * How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
 * The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/)) 9/10
-* Leverage ([IMDb](http://www.imdb.com/title/tt1103987)) 8.5/10
+* Leverage ([IMDb](http://www.imdb.com/title/tt1103987)) 9/10
 * Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
 * The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/)) 8/10
 * The Walking Dead ([IMDb](http://www.imdb.com/title/tt1520211/)) 8/10
