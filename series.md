@@ -10,7 +10,6 @@ comments: true
 
 * Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
-* Parks and Recreation ([IMDb](http://www.imdb.com/title/tt1266020))
 * Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
 
 
@@ -60,6 +59,7 @@ comments: true
 * How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
 * The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/)) 9/10
 * Leverage ([IMDb](http://www.imdb.com/title/tt1103987)) 9/10
+* Parks and Recreation ([IMDb](http://www.imdb.com/title/tt1266020)) 10/10
 * Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
 * The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/)) 8/10
 * The Walking Dead ([IMDb](http://www.imdb.com/title/tt1520211/)) 8/10
