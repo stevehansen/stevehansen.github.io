@@ -9,7 +9,9 @@ comments: true
 **Watching**
 
 * Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
+* Dominion ([IMDb](http://www.imdb.com/title/tt3079768))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
+* Rick and Morty ([IMDb](http://www.imdb.com/title/tt2861424/))
 * Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
 
 
@@ -37,7 +39,6 @@ comments: true
 * Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
 * Mr Pickles ([IMDb](http://www.imdb.com/title/tt2950342/))
 * Ray Donovan ([IMDb](http://www.imdb.com/title/tt2249007/))
-* Rick and Morty ([IMDb](http://www.imdb.com/title/tt2861424/))
 * Sense8 ([IMDb](http://www.imdb.com/title/tt2431438))
 * Sherlock ([IMDb](http://www.imdb.com/title/tt1475582/))
 * Suits ([IMDb](http://www.imdb.com/title/tt1632701/))
