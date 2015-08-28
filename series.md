@@ -10,6 +10,7 @@ comments: true
 
 * Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
 * Dominion ([IMDb](http://www.imdb.com/title/tt3079768))
+* Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
 * Rick and Morty ([IMDb](http://www.imdb.com/title/tt2861424/))
 * Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
