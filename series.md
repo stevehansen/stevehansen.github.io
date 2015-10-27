@@ -19,6 +19,7 @@ comments: true
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
 * Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
+* Supergirl ([IMDb](http://www.imdb.com/title/tt4016454/))
 
 
 **On hold**
@@ -37,7 +38,6 @@ comments: true
 * Intruders ([IMDb](http://www.imdb.com/title/tt3552166/))
 * Penny Dreadful ([IMDb](http://www.imdb.com/title/tt2628232/))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
-* Lost Girl ([IMDb](http://www.imdb.com/title/tt1429449/))
 * Marvel's Agent Carter ([IMDb](http://www.imdb.com/title/tt3475734/))
 * Mr Pickles ([IMDb](http://www.imdb.com/title/tt2950342/))
 * Ray Donovan ([IMDb](http://www.imdb.com/title/tt2249007/))
@@ -64,6 +64,7 @@ comments: true
 * How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
 * The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/)) 9/10
 * Leverage ([IMDb](http://www.imdb.com/title/tt1103987)) 9/10
+* Lost Girl ([IMDb](http://www.imdb.com/title/tt1429449/)) 9/10
 * Parks and Recreation ([IMDb](http://www.imdb.com/title/tt1266020)) 10/10
 * Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
 * The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/)) 8/10
