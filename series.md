@@ -9,10 +9,8 @@ comments: true
 **Watching**
 
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
-* Continuum ([IMDb](http://www.imdb.com/title/tt1954347/))
 * Doctor Who (2005) ([IMDb](http://www.imdb.com/title/tt0436992/))
 * The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
-* Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
 * Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
 * iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
@@ -32,6 +30,7 @@ comments: true
 * Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
 * Dominion ([IMDb](http://www.imdb.com/title/tt3079768))
 * Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
+* Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
 * Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
@@ -57,6 +56,7 @@ comments: true
 * Between ([IMDb](http://www.imdb.com/title/tt4132692)) 7/10
 * Breaking Bad ([IMDb](http://www.imdb.com/title/tt0903747/)) 10/10
 * Constantine ([IMDb](http://www.imdb.com/title/tt3489184/)) 9/10
+* Continuum ([IMDb](http://www.imdb.com/title/tt1954347/)) 9/10
 * Dracula ([IMDb](http://www.imdb.com/title/tt2296682/)) 8.5/10
 * Firefly ([IMDb](http://www.imdb.com/title/tt0303461/)) 10/10
 * Helix ([IMDb](http://www.imdb.com/title/tt2758950/) - <a href="http://www.youtube.com/watch?v=NiOXG8dVib4" target="_blank">Trailer</a>) 10/10
