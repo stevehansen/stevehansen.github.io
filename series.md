@@ -32,6 +32,7 @@ comments: true
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
 * Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/))
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
+* Into the Badlands ([IMDb](http://www.imdb.com/title/tt3865236/))
 * Intruders ([IMDb](http://www.imdb.com/title/tt3552166/))
 * iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
