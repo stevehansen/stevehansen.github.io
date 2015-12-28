@@ -11,6 +11,7 @@ comments: true
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
+* Scorpion ([IMDb](http://www.imdb.com/title/tt3514324/))
 
 
 **On hold**
@@ -42,7 +43,6 @@ comments: true
 * Penny Dreadful ([IMDb](http://www.imdb.com/title/tt2628232/))
 * Ray Donovan ([IMDb](http://www.imdb.com/title/tt2249007/))
 * Rick and Morty ([IMDb](http://www.imdb.com/title/tt2861424/))
-* Scorpion ([IMDb](http://www.imdb.com/title/tt3514324/))
 * Sense8 ([IMDb](http://www.imdb.com/title/tt2431438))
 * Sherlock ([IMDb](http://www.imdb.com/title/tt1475582/))
 * Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
