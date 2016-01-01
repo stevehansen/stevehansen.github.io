@@ -8,6 +8,7 @@ comments: true
 ---
 **Watching**
 
+* Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
