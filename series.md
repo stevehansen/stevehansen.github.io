@@ -8,7 +8,6 @@ comments: true
 ---
 **Watching**
 
-* Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
@@ -20,6 +19,7 @@ comments: true
 * The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
+* Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
 * Better Call Saul ([IMDb](http://www.imdb.com/title/tt3032476))
 * Bitten ([IMDb](http://www.imdb.com/title/tt2365946/) - <a href="http://www.youtube.com/watch?v=tUQ_ZXjzkiQ" target="_blank">Trailer</a>)
 * Brooklyn Nine-Nine ([IMDb](http://www.imdb.com/title/tt2467372/))
