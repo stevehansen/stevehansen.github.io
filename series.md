@@ -9,10 +9,11 @@ comments: true
 **Watching**
 
 * The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
+* Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
-* Scorpion ([IMDb](http://www.imdb.com/title/tt3514324/))
+* Supergirl ([IMDb](http://www.imdb.com/title/tt4016454/))
 
 
 **On hold**
@@ -33,7 +34,6 @@ comments: true
 * Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
 * Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
-* Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/))
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
 * Into the Badlands ([IMDb](http://www.imdb.com/title/tt3865236/))
 * Intruders ([IMDb](http://www.imdb.com/title/tt3552166/))
@@ -45,11 +45,11 @@ comments: true
 * Penny Dreadful ([IMDb](http://www.imdb.com/title/tt2628232/))
 * Ray Donovan ([IMDb](http://www.imdb.com/title/tt2249007/))
 * Rick and Morty ([IMDb](http://www.imdb.com/title/tt2861424/))
+* Scorpion ([IMDb](http://www.imdb.com/title/tt3514324/))
 * Sense8 ([IMDb](http://www.imdb.com/title/tt2431438))
 * Sherlock ([IMDb](http://www.imdb.com/title/tt1475582/))
 * Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
 * Suits ([IMDb](http://www.imdb.com/title/tt1632701/))
-* Supergirl ([IMDb](http://www.imdb.com/title/tt4016454/))
 * Z Nation ([IMDb](http://www.imdb.com/title/tt3843168/))
 * Zero Hour ([IMDb](http://www.imdb.com/title/tt2215797/))
 
@@ -60,6 +60,7 @@ comments: true
 * Being Human (US) ([IMDb](http://www.imdb.com/title/tt1595680/) - <a href="http://www.youtube.com/watch?v=aayb93qfXWQ" target="_blank">Trailer</a>) 9/10
 * Between ([IMDb](http://www.imdb.com/title/tt4132692)) 7/10
 * Breaking Bad ([IMDb](http://www.imdb.com/title/tt0903747/)) 10/10
+* Childhood's End ([IMDb](http://www.imdb.com/title/tt4146128/)) 10/10
 * Constantine ([IMDb](http://www.imdb.com/title/tt3489184/)) 9/10
 * Continuum ([IMDb](http://www.imdb.com/title/tt1954347/)) 9/10
 * Dracula ([IMDb](http://www.imdb.com/title/tt2296682/)) 8.5/10
