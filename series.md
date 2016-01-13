@@ -8,11 +8,15 @@ comments: true
 ---
 **Watching**
 
+* Angel From Hell ([IMDb](http://www.imdb.com/title/tt4424726/))
 * The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
 * Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
+* iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
+* The Magicians ([IMDb](http://www.imdb.com/title/tt4254242/))
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
+* Shadowhunters ([IMDb](http://www.imdb.com/title/tt4145054/))
 * Supergirl ([IMDb](http://www.imdb.com/title/tt4016454/))
 
 
@@ -37,7 +41,6 @@ comments: true
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
 * Into the Badlands ([IMDb](http://www.imdb.com/title/tt3865236/))
 * Intruders ([IMDb](http://www.imdb.com/title/tt3552166/))
-* iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
 * Marvel's Agent Carter ([IMDb](http://www.imdb.com/title/tt3475734/))
 * Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
@@ -75,5 +78,5 @@ comments: true
 * Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
 * The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/)) 8/10
 * The Walking Dead ([IMDb](http://www.imdb.com/title/tt1520211/)) 8/10
-* Warehouse 13 ([IMDb](http://www.imdb.com/title/tt1132290/")) 9/10
+* Warehouse 13 ([IMDb](http://www.imdb.com/title/tt1132290/)) 9/10
 * White Collar ([IMDb](http://www.imdb.com/title/tt1358522/) - <a href="http://www.youtube.com/watch?v=gIFySyLynAk" target="_blank">Trailer</a>) 10/10
