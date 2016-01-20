@@ -17,6 +17,7 @@ comments: true
 * The Magicians ([IMDb](http://www.imdb.com/title/tt4254242/))
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
 * Shadowhunters ([IMDb](http://www.imdb.com/title/tt4145054/))
+* The Shannara Chronicles ([IMDb](http://www.imdb.com/title/tt1051220/))
 * Supergirl ([IMDb](http://www.imdb.com/title/tt4016454/))
 
 
