@@ -8,9 +8,9 @@ comments: true
 ---
 **Watching**
 
+* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * Angel From Hell ([IMDb](http://www.imdb.com/title/tt4424726/))
 * The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
-* Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
 * iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
@@ -23,7 +23,6 @@ comments: true
 
 **On hold**
 
-* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
@@ -71,6 +70,7 @@ comments: true
 * Firefly ([IMDb](http://www.imdb.com/title/tt0303461/)) 10/10
 * Helix ([IMDb](http://www.imdb.com/title/tt2758950/) - <a href="http://www.youtube.com/watch?v=NiOXG8dVib4" target="_blank">Trailer</a>) 10/10
 * Hemlock Grove ([IMDb](http://www.imdb.com/title/tt2309295/)) 8.5/10
+* Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/)) 8/10
 * How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
 * The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/)) 9/10
 * Leverage ([IMDb](http://www.imdb.com/title/tt1103987)) 9/10
