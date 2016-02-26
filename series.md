@@ -10,7 +10,6 @@ comments: true
 
 * The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * Angel From Hell ([IMDb](http://www.imdb.com/title/tt4424726/))
-* The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
 * iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
@@ -34,6 +33,7 @@ comments: true
 * Doctor Who (2005) ([IMDb](http://www.imdb.com/title/tt0436992/))
 * Dominion ([IMDb](http://www.imdb.com/title/tt3079768))
 * Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
+* The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
 * The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
 * Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
 * Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
