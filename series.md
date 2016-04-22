@@ -9,15 +9,11 @@ comments: true
 **Watching**
 
 * The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
-* Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Daredevil ([IMDb](http://www.imdb.com/title/tt3322312))
-* The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
 * iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
-* Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
+* Legends of Tomorrow ([IMDb](http://www.imdb.com/title/tt4532368/))
 * Lucifer ([IMDb](http://www.imdb.com/title/tt4052886/))
-* The Magicians ([IMDb](http://www.imdb.com/title/tt4254242/))
 * Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
-* Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
 * Shadowhunters ([IMDb](http://www.imdb.com/title/tt4145054/))
 * Supergirl ([IMDb](http://www.imdb.com/title/tt4016454/))
 
@@ -26,6 +22,7 @@ comments: true
 
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
 * Angel From Hell ([IMDb](http://www.imdb.com/title/tt4424726/))
+* Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
 * Better Call Saul ([IMDb](http://www.imdb.com/title/tt3032476))
 * Bitten ([IMDb](http://www.imdb.com/title/tt2365946/) - <a href="http://www.youtube.com/watch?v=tUQ_ZXjzkiQ" target="_blank">Trailer</a>)
@@ -35,6 +32,7 @@ comments: true
 * Dominion ([IMDb](http://www.imdb.com/title/tt3079768))
 * Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
 * The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
+* The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
 * Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
 * Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
@@ -43,7 +41,10 @@ comments: true
 * Into the Badlands ([IMDb](http://www.imdb.com/title/tt3865236/))
 * Intruders ([IMDb](http://www.imdb.com/title/tt3552166/))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
+* Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
+* The Magicians ([IMDb](http://www.imdb.com/title/tt4254242/))
 * Marvel's Agent Carter ([IMDb](http://www.imdb.com/title/tt3475734/))
+* Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
 * Mr Pickles ([IMDb](http://www.imdb.com/title/tt2950342/))
 * Penny Dreadful ([IMDb](http://www.imdb.com/title/tt2628232/))
 * Ray Donovan ([IMDb](http://www.imdb.com/title/tt2249007/))
