@@ -7,7 +7,7 @@ baseurl: ""
 markdown: kramdown
 exclude: ["README.md", "LICENSE", "CNAME", "Gemfile", "Gemfile.lock"]
 timezone: Europe/Brussels
-highlighter: pygments
+highlighter: rouge
 footer-links:
   email: 
   facebook: xiutette
