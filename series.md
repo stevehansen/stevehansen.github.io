@@ -8,17 +8,16 @@ comments: true
 ---
 **Watching**
 
-* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
 * Daredevil ([IMDb](http://www.imdb.com/title/tt3322312))
 * The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
-* Legends of Tomorrow ([IMDb](http://www.imdb.com/title/tt4532368/))
-* Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
+* Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Shadowhunters ([IMDb](http://www.imdb.com/title/tt4145054/))
 
 
 **On hold**
 
+* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
 * Angel From Hell ([IMDb](http://www.imdb.com/title/tt4424726/))
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
@@ -31,7 +30,6 @@ comments: true
 * Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
 * The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
 * Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
-* Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
@@ -39,10 +37,12 @@ comments: true
 * Intruders ([IMDb](http://www.imdb.com/title/tt3552166/))
 * iZombie ([IMDb](http://www.imdb.com/title/tt3501584/))
 * Killjoys ([IMDb](http://www.imdb.com/title/tt3952222/))
+* Legends of Tomorrow ([IMDb](http://www.imdb.com/title/tt4532368/))
 * Limitless ([IMDb](http://www.imdb.com/title/tt4422836/))
 * Lucifer ([IMDb](http://www.imdb.com/title/tt4052886/))
 * The Magicians ([IMDb](http://www.imdb.com/title/tt4254242/))
 * Marvel's Agent Carter ([IMDb](http://www.imdb.com/title/tt3475734/))
+* Marvel's Agents of S.H.I.E.L.D. ([IMDb](http://www.imdb.com/title/tt2364582/) - <a href="http://www.youtube.com/watch?v=T3T-evQZiQo" target="_blank">Trailer</a>)
 * Minority Report ([IMDb](http://www.imdb.com/title/tt4450826/))
 * Mr Pickles ([IMDb](http://www.imdb.com/title/tt2950342/))
 * Penny Dreadful ([IMDb](http://www.imdb.com/title/tt2628232/))
