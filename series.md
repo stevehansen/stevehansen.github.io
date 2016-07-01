@@ -9,27 +9,27 @@ comments: true
 **Watching**
 
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
-* Daredevil ([IMDb](http://www.imdb.com/title/tt3322312))
-* The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
-* Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
-* Shadowhunters ([IMDb](http://www.imdb.com/title/tt4145054/))
+* Between ([IMDb](http://www.imdb.com/title/tt4132692/)) 7/10
+* Daredevil ([IMDb](http://www.imdb.com/title/tt3322312/))
 
 
 **On hold**
 
-* The 100 ([IMDb](http://www.imdb.com/title/tt2661044))
+* The 100 ([IMDb](http://www.imdb.com/title/tt2661044/))
 * Angel From Hell ([IMDb](http://www.imdb.com/title/tt4424726/))
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
-* Better Call Saul ([IMDb](http://www.imdb.com/title/tt3032476))
+* Better Call Saul ([IMDb](http://www.imdb.com/title/tt3032476/))
 * Bitten ([IMDb](http://www.imdb.com/title/tt2365946/) - <a href="http://www.youtube.com/watch?v=tUQ_ZXjzkiQ" target="_blank">Trailer</a>)
 * Brooklyn Nine-Nine ([IMDb](http://www.imdb.com/title/tt2467372/))
-* Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076))
+* Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076/))
 * Doctor Who (2005) ([IMDb](http://www.imdb.com/title/tt0436992/))
-* Dominion ([IMDb](http://www.imdb.com/title/tt3079768))
+* Dominion ([IMDb](http://www.imdb.com/title/tt3079768/))
 * Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
 * The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
+* The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
 * Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
+* Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
 * How to Get Away with Murder ([IMDb](http://www.imdb.com/title/tt3205802/))
@@ -49,10 +49,11 @@ comments: true
 * Ray Donovan ([IMDb](http://www.imdb.com/title/tt2249007/))
 * Rick and Morty ([IMDb](http://www.imdb.com/title/tt2861424/))
 * Scorpion ([IMDb](http://www.imdb.com/title/tt3514324/))
-* Sense8 ([IMDb](http://www.imdb.com/title/tt2431438))
+* Sense8 ([IMDb](http://www.imdb.com/title/tt2431438/))
+* Shadowhunters ([IMDb](http://www.imdb.com/title/tt4145054/))
 * The Shannara Chronicles ([IMDb](http://www.imdb.com/title/tt1051220/))
 * Sherlock ([IMDb](http://www.imdb.com/title/tt1475582/))
-* Stitchers ([IMDb](http://www.imdb.com/title/tt3868848))
+* Stitchers ([IMDb](http://www.imdb.com/title/tt3868848/))
 * Suits ([IMDb](http://www.imdb.com/title/tt1632701/))
 * Supergirl ([IMDb](http://www.imdb.com/title/tt4016454/))
 * Z Nation ([IMDb](http://www.imdb.com/title/tt3843168/))
@@ -63,7 +64,6 @@ comments: true
 
 * Almost Human ([IMDb](http://www.imdb.com/title/tt2654580/)) 8/10
 * Being Human (US) ([IMDb](http://www.imdb.com/title/tt1595680/) - <a href="http://www.youtube.com/watch?v=aayb93qfXWQ" target="_blank">Trailer</a>) 9/10
-* Between ([IMDb](http://www.imdb.com/title/tt4132692)) 7/10
 * Breaking Bad ([IMDb](http://www.imdb.com/title/tt0903747/)) 10/10
 * Childhood's End ([IMDb](http://www.imdb.com/title/tt4146128/)) 10/10
 * Constantine ([IMDb](http://www.imdb.com/title/tt3489184/)) 9/10
@@ -75,9 +75,9 @@ comments: true
 * Heroes Reborn ([IMDb](http://www.imdb.com/title/tt3556944/)) 8/10
 * How I Met Your Mother ([IMDb](http://www.imdb.com/title/tt0460649/) - <a href="http://www.youtube.com/watch?v=aJtVL2_fA5w" target="_blank">Trailer</a>) 10/10
 * The Legend of Korra ([IMDb](http://www.imdb.com/title/tt1695360/)) 9/10
-* Leverage ([IMDb](http://www.imdb.com/title/tt1103987)) 9/10
+* Leverage ([IMDb](http://www.imdb.com/title/tt1103987/)) 9/10
 * Lost Girl ([IMDb](http://www.imdb.com/title/tt1429449/)) 9/10
-* Parks and Recreation ([IMDb](http://www.imdb.com/title/tt1266020)) 10/10
+* Parks and Recreation ([IMDb](http://www.imdb.com/title/tt1266020/)) 10/10
 * Psych ([IMDb](http://www.imdb.com/title/tt0491738/) - <a href="http://www.youtube.com/watch?v=krWONONSN78" target="_blank">Trailer</a>) 10/10
 * The Tomorrow People ([IMDb](http://www.imdb.com/title/tt2660734/)) 8/10
 * The Walking Dead ([IMDb](http://www.imdb.com/title/tt1520211/)) 8/10
