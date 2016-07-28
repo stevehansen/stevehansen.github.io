@@ -9,8 +9,9 @@ comments: true
 **Watching**
 
 * 12 Monkeys ([IMDb](http://www.imdb.com/title/tt3148266/))
-* Between ([IMDb](http://www.imdb.com/title/tt4132692/)) 7/10
 * Daredevil ([IMDb](http://www.imdb.com/title/tt3322312/))
+* Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076/))
+* Mr. Robot ([IMDb](http://www.imdb.com/title/tt4158110/))
 
 
 **On hold**
@@ -20,15 +21,15 @@ comments: true
 * Arrow (2012) ([IMDb](http://www.imdb.com/title/tt2193021/))
 * Ash vs Evil Dead ([IMDb](http://www.imdb.com/title/tt4189022/))
 * Better Call Saul ([IMDb](http://www.imdb.com/title/tt3032476/))
+* Between ([IMDb](http://www.imdb.com/title/tt4132692/)) 7/10
 * Bitten ([IMDb](http://www.imdb.com/title/tt2365946/) - <a href="http://www.youtube.com/watch?v=tUQ_ZXjzkiQ" target="_blank">Trailer</a>)
 * Brooklyn Nine-Nine ([IMDb](http://www.imdb.com/title/tt2467372/))
-* Dark Matter ([IMDb](http://www.imdb.com/title/tt4159076/))
 * Doctor Who (2005) ([IMDb](http://www.imdb.com/title/tt0436992/))
-* Dominion ([IMDb](http://www.imdb.com/title/tt3079768/))
 * Elementary ([IMDb](http://www.imdb.com/title/tt2191671/) - <a href="http://www.youtube.com/watch?v=6YvuZ4Msh50" target="_blank">Trailer</a>)
 * The Expanse ([IMDb](http://www.imdb.com/title/tt3230854/))
 * The Flash ([IMDb](http://www.imdb.com/title/tt3107288/))
 * Forever ([IMDb](http://www.imdb.com/title/tt3487382/))
+* From Dusk Till Dawn ([IMDb](http://www.imdb.com/title/tt3337194/))
 * Game of Thrones ([IMDb](http://www.imdb.com/title/tt0944947/))
 * Gotham ([IMDb](http://www.imdb.com/title/tt3749900/))
 * House of Cards ([IMDb](http://www.imdb.com/title/tt1856010/))
@@ -68,6 +69,7 @@ comments: true
 * Childhood's End ([IMDb](http://www.imdb.com/title/tt4146128/)) 10/10
 * Constantine ([IMDb](http://www.imdb.com/title/tt3489184/)) 9/10
 * Continuum ([IMDb](http://www.imdb.com/title/tt1954347/)) 9/10
+* Dominion ([IMDb](http://www.imdb.com/title/tt3079768/)) 8.5/10
 * Dracula ([IMDb](http://www.imdb.com/title/tt2296682/)) 8.5/10
 * Firefly ([IMDb](http://www.imdb.com/title/tt0303461/)) 10/10
 * Helix ([IMDb](http://www.imdb.com/title/tt2758950/) - <a href="http://www.youtube.com/watch?v=NiOXG8dVib4" target="_blank">Trailer</a>) 10/10
