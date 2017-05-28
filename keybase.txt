@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/stevehansen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xiu.shoeke.com
+  * I am stevehansen (https://keybase.io/stevehansen) on keybase.
+  * I have a public key ASBBMwbQRmOT5pwoLEWG0uv4XwyDFq3k5xTmhTWb1BADjgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120413306d0466393e69c282c4586d2ebf85f0c8316ade4e714e685359bd410038e0a",
+            "host": "keybase.io",
+            "kid": "0120413306d0466393e69c282c4586d2ebf85f0c8316ade4e714e685359bd410038e0a",
+            "uid": "fd50e6d01413b93e6ef6b8f888541919",
+            "username": "stevehansen"
+        },
+        "service": {
+            "hostname": "xiu.shoeke.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1496013144,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1496013077,
+        "hash": "6e1134b2a4b77fb2510df7c26a11ebdbe56eb33a85e51aa1e21ac6bd3c410d4e6acc3ed64b97d43b98eef384622e8ab1c48b86a802ed2ae6177b93dbf8da0d2a",
+        "seqno": 1124381
+    },
+    "prev": "bcb6a279f9aeac98b14e908b608a7098beb59c5faef73fc3ef6def9940d16141",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQTMG0EZjk+acKCxFhtLr+F8Mgxat5OcU5oU1m9QQA44Kp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDEzMzA2ZDA0NjYzOTNlNjljMjgyYzQ1ODZkMmViZjg1ZjBjODMxNmFkZTRlNzE0ZTY4NTM1OWJkNDEwMDM4ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDEzMzA2ZDA0NjYzOTNlNjljMjgyYzQ1ODZkMmViZjg1ZjBjODMxNmFkZTRlNzE0ZTY4NTM1OWJkNDEwMDM4ZTBhIiwidWlkIjoiZmQ1MGU2ZDAxNDEzYjkzZTZlZjZiOGY4ODg1NDE5MTkiLCJ1c2VybmFtZSI6InN0ZXZlaGFuc2VuIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ4aXUuc2hvZWtlLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIzIn0sImN0aW1lIjoxNDk2MDEzMTQ0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTYwMTMwNzcsImhhc2giOiI2ZTExMzRiMmE0Yjc3ZmIyNTEwZGY3YzI2YTExZWJkYmU1NmViMzNhODVlNTFhYTFlMjFhYzZiZDNjNDEwZDRlNmFjYzNlZDY0Yjk3ZDQzYjk4ZWVmMzg0NjIyZThhYjFjNDhiODZhODAyZWQyYWU2MTc3YjkzZGJmOGRhMGQyYSIsInNlcW5vIjoxMTI0MzgxfSwicHJldiI6ImJjYjZhMjc5ZjlhZWFjOThiMTRlOTA4YjYwOGE3MDk4YmViNTljNWZhZWY3M2ZjM2VmNmRlZjk5NDBkMTYxNDEiLCJzZXFubyI6NiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDw5OJVlfgWMROLwxRWpZ3CZXMG+3gIlNjCD8pb4zIdlPoIObdTT3Jw9kyx2/r5aQjDlS64cfCcKKmWs1oHnaMKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg+o3gC6TiRbR/cD1IZoRRDaq2pESrEwNkrFkS970gM12jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevehansen
+
+==================================================================
