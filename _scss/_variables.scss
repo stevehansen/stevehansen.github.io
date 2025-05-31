@@ -4,18 +4,19 @@
 //
 
 // Colors
-$blue: #4183C4; 
+// $blue: #4183C4; // Original blue
+$blue: #007bff; // Bootstrap's primary blue
 
 // Grays
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
+// $darkerGray: #222; // Old variable
+$darkGray: #343a40; // Bootstrap's dark
+$gray: #6c757d; // Bootstrap's secondary
+$lightGray: #f8f9fa; // Bootstrap's light
 $white: #fff;
 
 // Font stacks
-$font: Meiryo, Arial, sans-serif;
+$font: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"';
 
 // Mobile breakpoints
 @mixin mobile {

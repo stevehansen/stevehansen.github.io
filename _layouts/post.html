@@ -4,6 +4,6 @@ layout: default
 <article class="post">
  <h1>{{ page.title }}</h1>
  <div class="entry">{{ content }}</div>
- <div class="date">Written <time is="relative-time" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% if page.tags.size > 0 %} and tagged in {% for tag in page.tags %}<a href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{% endif %} <a href="https://github.com/stevehansen/stevehansen.github.io/edit/master/{{ page.path }}" class="edit">Edit</a></div>
+ <div class="date">Written <time class="timeago" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>{% if page.tags.size > 0 %} and tagged in {% for tag in page.tags %}<a href="/tags/#{{tag}}">{{tag}}</a> {% endfor %}{% endif %} <a href="https://github.com/stevehansen/stevehansen.github.io/edit/master/{{ page.path }}" class="edit">Edit</a></div>
 {% include disqus.html %}
 </article>
