@@ -9,8 +9,10 @@
  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" />
 {% if site.footer-links.rss %} <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}{{ site.footer-links.rss }}" />
-{% endif %} <script src="{{ site.baseurl }}/webcomponents.min.js"></script>
- <script src="{{ site.baseurl }}/time-elements.min.js"></script>
+{% endif %} <script src="https://cdnjs.cloudflare.com/ajax/libs/timeago.js/4.0.2/timeago.min.js" integrity="sha512-SVDh1zH5N9ChofSlNAK43lcNS7lWze6DTVx1JCXH1Tmno+0/1jMpdbR8YDgDUfcUrPp1xyE53G42GFrcM0CMVg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+ <script>
+ timeago.render(document.querySelectorAll('.timeago'));
+ </script>
 </head>
 <body>
  <div class="wrapper-masthead">

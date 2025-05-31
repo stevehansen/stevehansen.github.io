@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $darkerGray;
+  color: $darkGray;
   font-weight: bold;
   
   line-height: 1.7;
@@ -150,8 +150,8 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-  
+  border-bottom: 1px solid $lightGray; // Updated to new $lightGray
+
   @include mobile {
     text-align: center;
   }
@@ -184,7 +184,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $darkGray; // Updated to new $darkGray
   cursor: pointer;
   font-weight: 300;
   font-size: 28px;
@@ -215,14 +215,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $darkGray; // Updated to new $darkGray
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $blue; // Updated to new $blue
     }
   }
 }
@@ -244,9 +244,9 @@ nav {
 .post { 
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $gray; // Updated to new $gray
     padding: 0.1em 1em;
-    color: $gray;
+    color: $gray; // Updated to new $gray
     font-size: 22px;
     font-style: italic;
   }
@@ -267,9 +267,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid $gray; // Changed from #ddd
+  border-bottom: 1px solid $gray; // Changed from #ddd
+  background-color: $lightGray; // Updated to new $lightGray
 }
 
 footer {

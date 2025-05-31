@@ -17,7 +17,10 @@ footer-links:
   stackoverflow: users/295296/xiu
 disqus: xiu
 google_analytics: UA-17536806-1
-gems: ["jemoji", "jekyll-sitemap", "jekyll-redirect-from"]
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
 sass:
   sass_dir: _scss
   style: :compressed
