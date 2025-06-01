@@ -9,6 +9,7 @@ gem "jekyll", "~> 3.9.0"
 # It includes jekyll, jemoji, jekyll-sitemap, jekyll-redirect-from, etc.
 group :jekyll_plugins do
   gem "github-pages", "~> 220", :require => false
+  gem "faraday-retry"
   # "~> 220" corresponds to a recent version that supports Jekyll 3.9.x
   # If specific versions of plugins are needed, they can be listed here too,
   # but github-pages gem usually handles this well.
