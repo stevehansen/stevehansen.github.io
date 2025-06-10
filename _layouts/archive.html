@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article class="page">
+  <h1>{{ page.title }}</h1>
+  <div class="entry">
+    {% assign post_count = 0 %}
+    <div class="posts">
+      {% for post in site.posts %}
+        {% assign post_year = post.date | date: "%Y" %}
+        {% assign post_month = post.date | date: "%m" %}
+        {% assign show_post = false %}
+        
+        {% if page.month %}
+          {% if post_year == page.year and post_month == page.month %}
+            {% assign show_post = true %}
+            {% assign post_count = post_count | plus: 1 %}
+          {% endif %}
+        {% elsif page.year %}
+          {% if post_year == page.year %}
+            {% assign show_post = true %}
+            {% assign post_count = post_count | plus: 1 %}
+          {% endif %}
+        {% endif %}
+        
+        {% if show_post %}
+          <article class="post">    
+           <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+           <div class="date"><time class="timeago" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time></div>
+           <div class="entry">{{ post.content | truncatewords:40}}</div>
+           <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% if post_count == 0 %}
+      <p>No posts found for this time period.</p>
+    {% else %}
+      <p>{{ post_count }} post{% if post_count != 1 %}s{% endif %} found.</p>
+    {% endif %}
+  </div>
+</article>
